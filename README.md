@@ -1,7 +1,7 @@
 ## Tutorial: Machine Learning with scikit-learn
 Presented by [Izaskun Mendia](http://www.dataschool.io/about/) at TECNALIA on Nov 29-30, Dec 1-13, 2016. 
 
-**Hours Allocation Code: Hours Allocation Code: 058585_20200**
+*Hours Allocation Code: Hours Allocation Code: 058585_20200*
 
 ### Description
 
