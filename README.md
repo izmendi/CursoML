@@ -18,9 +18,12 @@ Attendees will need [scikit-learn](http://scikit-learn.org/stable/install.html) 
 I will be leading the tutorial using the IPython/Jupyter notebook, and have added a pre-written notebook to this repository. I have also created a Python script that is identical to the notebook, which you can use in the Python environment of your choice.
 
 ### Tutorial Files
-
-* IPython/Jupyter notebooks: [Titanic_initial.ipynb](Titanic_initial.ipynb), [Tutorial_ML.ipynb](Tutorial_ML.ipynb), [00_pandas.ipynb](00_pandas.ipynb), [01_cleaning_data.ipynb](01_cleaning_data.ipynb),[02_feature_encoding.ipynb](02_feature_encoding.ipynb),[03_about_standardization_normalization.ipynb](03_about_standardization_normalization.ipynb),[04_svm_iris_pipeline_and_gridsearch.ipynb](04_svm_iris_pipeline_and_gridsearch.ipynb),[05_matplotlib_viz_gallery.ipynb](05_matplotlib_viz_gallery.ipynb),[06_linearPolynomicRegression.ipynb](06_linearPolynomicRegression.ipynb),[07_clustering.ipynb](07_clustering.ipynb)
-* Datasets: [data/titanic.txt](data/titanic.txt)
+* CursoML: CursoMLySKLearn_Intro.pptx
+Slides concerning general concepts of Machine Learning
+* CursoML: kaggle-titanic-master.zip
+Advanced solution of clasiffication modeling for TITANIC
+* CursoML/Notebooks: [Titanic_initial.ipynb](Titanic_initial.ipynb), [Tutorial_ML.ipynb](Tutorial_ML.ipynb), [00_pandas.ipynb](00_pandas.ipynb), [01_cleaning_data.ipynb](01_cleaning_data.ipynb),[02_feature_encoding.ipynb](02_feature_encoding.ipynb),[03_about_standardization_normalization.ipynb](03_about_standardization_normalization.ipynb),[04_svm_iris_pipeline_and_gridsearch.ipynb](04_svm_iris_pipeline_and_gridsearch.ipynb),[05_matplotlib_viz_gallery.ipynb](05_matplotlib_viz_gallery.ipynb),[06_linearPolynomicRegression.ipynb](06_linearPolynomicRegression.ipynb),[07_clustering.ipynb](07_clustering.ipynb)
+* CursoML/Notebooks/data: [data/titanic.txt](data/titanic.txt)
 
 ### Prerequisite Knowledge
 
